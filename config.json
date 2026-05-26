@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicesetch",
+        "uuid": 7780256,
+        "checksum": "p5o1d4"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
